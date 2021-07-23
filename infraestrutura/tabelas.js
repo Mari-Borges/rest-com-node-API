@@ -15,7 +15,7 @@ class Tabelas {
             if(erro) {
                 console.log(erro)
             } else {
-                console.log('tabela atendimento criada com sucesso')
+                console.log('Tabela atendimento criada com sucesso')
             }
         })
     }
@@ -28,7 +28,7 @@ class Tabelas {
 
                 console.log(erro)
             }else {
-                console.log('Tabela criada com sucesso')
+                console.log('Tabela pets criada com sucesso')
             }
         })
     }
